@@ -1,0 +1,3 @@
+gilgit 200000
+skurdu 4000
+bal 600
